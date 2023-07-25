@@ -1,0 +1,16 @@
+#FC9765 Dark peach
+#C3B8FC Light lavender
+#A299FF Perrywinkle
+#E3965B Apricot
+#98ACC8 Cloudy blue
+#C7709A Muted pink
+#A3CCCC Bluegrey
+#FFC675 Apricot
+#CC85A4 Dull pink
+#C87272 Dirty pink
+#FFD599 Very light brown
+#5DA6BA Dirty blue
+#358DB9 Ocean blue
+#85E7FF Robin egg blue
+#FFDA85 Sand
+#F28799 Rose pink
